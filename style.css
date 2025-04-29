@@ -9,3 +9,6 @@ body {
      width: 800px;
      text-align: center;
     }
+    .clickable {
+        cursor:hand;
+       }
