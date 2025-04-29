@@ -10,4 +10,11 @@ h1 {
      margin: 0 auto;
      width: 800px;
      text-align: center;
+<<<<<<< HEAD
 }
+=======
+    }
+    .clickable {
+        cursor:hand;
+       }
+>>>>>>> Shawn_Lee_GitHub_Owner_feature1
